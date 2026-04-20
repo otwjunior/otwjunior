@@ -1,92 +1,61 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=otwjunior.otwjunior" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James+Mwangi!;" />
-</h1>
+<h1 align="center">Hi 👋, I'm James Mwangi</h1>
 
-<h3 align="center"></h3>
+<h3 align="center">Backend Developer | AWS Cloud Practitioner | Aspiring Cloud Security Engineer</h3>
 
-<br/>
-Backend Developer | AWS Cloud Enthusiast | Aspiring Cloud Security Engineer
+---
 
-<div align="center">
+## 🚀 About Me
+I am a Computer Science graduate focused on building backend systems using Django and deploying them on AWS.
 
+My current journey is shifting from backend development into **Cloud Security and DevSecOps**, where I aim to design and secure real-world systems.
 
+---
 
-## 🚀 What I Do
-I build backend systems with Django and deploy them on AWS, focusing on secure and scalable applications.
+## 🎯 Current Focus
+- Building secure backend APIs using Django  
+- Strengthening AWS cloud architecture skills  
+- Learning system security and DevSecOps fundamentals  
+- Developing real-world, production-ready projects  
+
+---
 
 ## 🛠 Tech Stack
-- Python (Django)
-- AWS (EC2, S3, IAM)
-- PostgreSQL
-- REST APIs
+**Backend:** Python, Django, REST APIs  
+**Cloud:** AWS (EC2, S3, IAM)  
+**Database:** PostgreSQL  
+**Tools:** Git, Linux  
 
-## 🔐 Current Focus
-- Building secure backend systems
-- Learning Cloud Security & DevSecOps
+---
 
-## 📌 Projects
-- (Coming soon) Secure Django API with AWS deployment
- 
-💬 Ask me about **Python, Django, AWS... or anything [here](https://github.com/otwjunior/otwjunior/issues)**
+## 🔐 Featured Project (In Progress)
+### Secure Django API
+A backend system designed to practice secure software engineering principles.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+**Features (in progress):**
+- User authentication  
+- Role-based access control  
+- REST API design  
+- AWS deployment  
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:jimi7mwangi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/james-mwangi-677477255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://otwjunnior.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+> 🚧 Actively being built and improved
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,mysql,django,aws" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+## 📈 What I'm Building Toward
+- Cloud Security Engineer  
+- DevSecOps Engineer  
+- Secure Backend Systems Architect  
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/otwjunior/otwjunior/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+## 📫 Connect With Me
+- Email: jimi7mwangi@gmail.com  
+- LinkedIn: https://linkedin.com/in/james-mwangi-677477255  
+- Portfolio: https://otwjunnior.github.io  
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-otwjunior.vercel.app/?user=otwjunior&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-otwjunior.vercel.app/api?username=otwjunior&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-otwjunior.vercel.app/api/top-langs/?username=otwjunior&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
+## ⚡ Philosophy
+> “I don’t just build applications — I build systems that can be secured, scaled, and trusted.”
