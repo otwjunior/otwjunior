@@ -28,14 +28,7 @@ I build backend systems with Django and deploy them on AWS, focusing on secure a
 
 ## 📌 Projects
 - (Coming soon) Secure Django API with AWS deployment
-
-## 📫 Contact
-- LinkedIn: (add your link)
  
- 🔭 I’m currently working on **building foundations**
- 
- 🌱 I’m currently learning **Docker, python, AWS,Django**
-
 💬 Ask me about **Python, Django, AWS... or anything [here](https://github.com/otwjunior/otwjunior/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
@@ -60,7 +53,7 @@ I build backend systems with Django and deploy them on AWS, focusing on secure a
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,c,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,django,aws" /><br>
 </div>
 
 <br/>
@@ -80,7 +73,7 @@ I build backend systems with Django and deploy them on AWS, focusing on secure a
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-otwjunior.vercel.app/?user=otwjunior&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-otwjunior.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-otwjunior.vercel.app/api?username=otwjunior&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-otwjunior.vercel.app/api/top-langs/?username=otwjunior&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
