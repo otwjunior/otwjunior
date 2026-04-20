@@ -4,11 +4,33 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James+Mwangi!;" />
 </h1>
 
-<h3 align="center">A passionate Backend engineer</h3>
+<h3 align="center"></h3>
 
 <br/>
+Backend Developer | AWS Cloud Enthusiast | Aspiring Cloud Security Engineer
 
 <div align="center">
+
+
+
+## 🚀 What I Do
+I build backend systems with Django and deploy them on AWS, focusing on secure and scalable applications.
+
+## 🛠 Tech Stack
+- Python (Django)
+- AWS (EC2, S3, IAM)
+- PostgreSQL
+- REST APIs
+
+## 🔐 Current Focus
+- Building secure backend systems
+- Learning Cloud Security & DevSecOps
+
+## 📌 Projects
+- (Coming soon) Secure Django API with AWS deployment
+
+## 📫 Contact
+- LinkedIn: (add your link)
  
  🔭 I’m currently working on **building foundations**
  
